@@ -8,4 +8,3 @@ statsmodels
 pmdarima
 scikit-learn
 plotly-express
-os-sys
