@@ -3,10 +3,9 @@ bs4
 requests
 pandas
 numpy
-matplotlib.pyplot 
-pylab
+matplotlib 
 statsmodels
-pmdarima.arima
-sklearn.metrics 
-math
-plotly.express
+pmdarima
+scikit-learn
+maths
+plotly-express
