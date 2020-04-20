@@ -2,9 +2,7 @@ selenium
 bs4
 requests
 pandas
-io
 os
-warnings
 numpy
 matplotlib.pyplot 
 pylab
