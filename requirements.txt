@@ -1,0 +1,17 @@
+selenium
+bs4
+requests
+IPython.display
+pandas
+lxml
+io
+os
+warnings
+numpy
+matplotlib.pyplot 
+from pylab
+statsmodels
+pmdarima.arima
+sklearn.metrics 
+math
+plotly.express
