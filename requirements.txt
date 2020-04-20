@@ -7,5 +7,4 @@ matplotlib
 statsmodels
 pmdarima
 scikit-learn
-maths
 plotly-express
