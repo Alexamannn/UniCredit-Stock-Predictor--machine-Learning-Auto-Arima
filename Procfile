@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser  --enable_nbextensions=True unicredit123.ipynb
+web: voila —-port=$PORT —-no-browser  unicredit123.ipynb
