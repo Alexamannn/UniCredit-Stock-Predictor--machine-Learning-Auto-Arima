@@ -10,3 +10,5 @@ App deployed on heroku -> https://unicreditstock.herokuapp.com/   (App takes 1.3
 
 - Selenium
 - Python
+- Chromedriver
+- Heroku integration
